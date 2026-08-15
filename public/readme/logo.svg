@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">SENSAI Logo</title>
+  <desc id="desc">Gradient circular logo with SENSAI text.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4f46e5"/>
+      <stop offset="100%" stop-color="#06b6d4"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="96" fill="#0f172a"/>
+  <circle cx="256" cy="256" r="168" fill="url(#bg)" opacity="0.95"/>
+  <text x="256" y="250" text-anchor="middle" font-size="74" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="700" fill="#ffffff">SENSAI</text>
+  <text x="256" y="300" text-anchor="middle" font-size="24" font-family="Inter,Segoe UI,Arial,sans-serif" fill="#e2e8f0">AI Career Coach</text>
+</svg>

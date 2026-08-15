@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">SENSAI feature gallery</title>
+  <desc id="desc">Illustrative gallery of SENSAI features listed in the project README.</desc>
+  <rect width="1600" height="900" fill="#020617"/>
+  <text x="800" y="90" text-anchor="middle" font-size="54" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="700" fill="#e2e8f0">Feature Gallery</text>
+
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <rect x="80" y="150" width="700" height="320" rx="20" fill="#0f172a" stroke="#334155"/>
+    <text x="120" y="220" font-size="38" font-weight="600" fill="#38bdf8">Personalized Guidance</text>
+    <text x="120" y="280" font-size="24" fill="#94a3b8">Career coaching tailored to user goals.</text>
+
+    <rect x="820" y="150" width="700" height="320" rx="20" fill="#0f172a" stroke="#334155"/>
+    <text x="860" y="220" font-size="38" font-weight="600" fill="#22c55e">Interview Preparation</text>
+    <text x="860" y="280" font-size="24" fill="#94a3b8">Practice and improve interview readiness.</text>
+
+    <rect x="80" y="500" width="700" height="320" rx="20" fill="#0f172a" stroke="#334155"/>
+    <text x="120" y="570" font-size="38" font-weight="600" fill="#a78bfa">AI Resume + Cover Letter</text>
+    <text x="120" y="630" font-size="24" fill="#94a3b8">Generate ATS-friendly professional documents.</text>
+
+    <rect x="820" y="500" width="700" height="320" rx="20" fill="#0f172a" stroke="#334155"/>
+    <text x="860" y="570" font-size="38" font-weight="600" fill="#f59e0b">Industry Insights</text>
+    <text x="860" y="630" font-size="24" fill="#94a3b8">Understand trends and target opportunities.</text>
+  </g>
+</svg>
